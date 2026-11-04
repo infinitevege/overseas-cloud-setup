@@ -1,0 +1,21 @@
+url: "https://infinitevege.github.io"
+baseurl: "/overseas-cloud-setup"
+
+title: 出海上云落地手册
+description: 阿里云国际、腾讯云国际、AWS、Google Cloud、Azure 从开户到稳定运行的分步清单，含账单拆解与 USDT 付款对账。
+lang: zh-CN
+author: 云大佬
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: false
+
+markdown: kramdown
+kramdown:
+  input: GFM
