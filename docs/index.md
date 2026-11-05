@@ -18,6 +18,7 @@ description: 阿里云国际、腾讯云国际、AWS、Google Cloud、Azure 从�
 | 开户与上手 | [Google Cloud 新项目上线清单：API、服务账号、日志与标签](guides/gcp-project-launch-checklist.md) |
 | 充值与账单 | [Azure 按项目分账：标签、资源组与预算提醒的用法](guides/azure-cost-tags-budgets.md) |
 | 付款与对账 | [团队用 USDT 付云费用：一张对账台账该记哪些字段](guides/usdt-payment-ledger.md) |
+| 账号安全 | [Azure 订阅到手后的安全基线：MFA、角色分配、活动日志与网络入口](guides/azure-subscription-security-baseline.md) |
 <!-- GUIDE-INDEX:END -->
 
 ## 三个原则
