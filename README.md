@@ -18,6 +18,7 @@
 | 充值与账单 | [Azure 按项目分账：标签、资源组与预算提醒的用法](docs/guides/azure-cost-tags-budgets.md) | 用资源组划分边界、用标签补充维度、用 Cost Management 的成本分析和预算做按项目分账，附标签继承和命名规范建议。 |
 | 付款与对账 | [团队用 USDT 付云费用：一张对账台账该记哪些字段](docs/guides/usdt-payment-ledger.md) | 团队用 USDT 支付国际云开户与充值费用时，财务和技术如何用一张台账记录订单号、交易哈希、到账金额与账号标识，月底十分钟完成对账。 |
 | 账号安全 | [Azure 订阅到手后的安全基线：MFA、角色分配、活动日志与网络入口](docs/guides/azure-subscription-security-baseline.md) | 新开或刚接手的 Azure 订阅，在跑正式业务前按五步做完安全基线：身份与 MFA、RBAC 角色清理、活动日志留存、网络入口收紧、Defender for Cloud 检查，每一步给出检查点。 |
+| 账号安全 | [云账号 AccessKey 泄露后的一小时：阿里云国际、腾讯云国际与 AWS 通用应急清单](docs/guides/access-key-leak-response-checklist.md) | AccessKey 或访问密钥被误传到代码仓库、聊天群后，如何在一小时内按顺序停用密钥、查操作记录、清理异常资源、轮换凭证并补上预算告警，附三家云平台的对应入口。 |
 <!-- GUIDE-INDEX:END -->
 
 ## 怎么用这份手册

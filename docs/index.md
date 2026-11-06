@@ -19,6 +19,7 @@ description: 阿里云国际、腾讯云国际、AWS、Google Cloud、Azure 从�
 | 充值与账单 | [Azure 按项目分账：标签、资源组与预算提醒的用法](guides/azure-cost-tags-budgets.md) |
 | 付款与对账 | [团队用 USDT 付云费用：一张对账台账该记哪些字段](guides/usdt-payment-ledger.md) |
 | 账号安全 | [Azure 订阅到手后的安全基线：MFA、角色分配、活动日志与网络入口](guides/azure-subscription-security-baseline.md) |
+| 账号安全 | [云账号 AccessKey 泄露后的一小时：阿里云国际、腾讯云国际与 AWS 通用应急清单](guides/access-key-leak-response-checklist.md) |
 <!-- GUIDE-INDEX:END -->
 
 ## 三个原则
