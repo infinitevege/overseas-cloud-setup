@@ -107,4 +107,4 @@ category: 账号安全
 
 ---
 
-上一篇：[Azure 订阅到手后的安全基线](azure-subscription-security-baseline.md) · [返回目录](../index.md) · 下一篇：无
+上一篇：[Azure 订阅到手后的安全基线](azure-subscription-security-baseline.md) · [返回目录](../index.md) · 下一篇：[腾讯云国际新账号安全基线](tencent-intl-security-baseline.md)
